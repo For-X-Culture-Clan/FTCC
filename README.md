@@ -130,7 +130,7 @@ Below is a list resources we find helpful and would like to give credit to.
 [issues-shield]: https://img.shields.io/github/issues/For-X-Culture-Clan/FTCC.svg?style=for-the-badge
 [issues-url]: https://github.com/For-X-Culture-Clan/FTCC/milestones?with_issues=no
 [license-shield]: https://img.shields.io/github/license/For-X-Culture-Clan/FTCC.svg?style=for-the-badge
-[license-url]: https://github.com/For-X-Culture-Clan/FTCC/license.txt
+[license-url]: https://github.com/For-X-Culture-Clan/FTCC/blob/main/LICENSE.txt
 [CSS.com]: https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=CSS3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML5.com]: https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=HTML5&logoColor=white
